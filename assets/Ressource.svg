@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1302" height="135" viewBox="0 0 1302 135">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c4c4c4;
+        opacity: 0.15;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #1c7cff;
+      }
+    </style>
+  </defs>
+  <g id="Ressource" transform="translate(5)">
+    <g id="wave_header">
+      <g id="Group-4-Copy" transform="translate(-5)">
+        <path id="Wave" class="cls-1" d="M0,0H1300q-.234,39.985,0,129.143C990.96,140,1034.967,114.449,701.5,123.932S390.606,144.317,0,121.343Q1.5,71.518,0,0Z"/>
+        <path id="Wave-2" data-name="Wave" class="cls-2" d="M1,0H1302V-115.07c-80.395,3.2-154.186,7.874-343.718,3.2s-256.458-23.366-531.96-5.645Q150.819-99.794,1-120.123Z" transform="translate(1303) rotate(180)"/>
+      </g>
+    </g>
+  </g>
+</svg>
